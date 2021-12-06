@@ -1,5 +1,7 @@
 # Tutorial de comandos do git :bookmark:
 
+## Glossário
+
 
 
 - #### Básico 
