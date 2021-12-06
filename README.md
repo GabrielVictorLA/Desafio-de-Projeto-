@@ -1,4 +1,4 @@
-# Tutorial de comandos do github :bookmark:
+# Tutorial de comandos do git :bookmark:
 
 
 
